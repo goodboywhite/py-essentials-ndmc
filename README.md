@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## 成為初級資料分析師 | Python 程式設計與資料科學應用
 
-You can use the [editor on GitHub](https://github.com/yaojenkuo/py-essentials-ndmc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 上課互動工具
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<https://www.sli.do/> #Y526
 
-### Markdown
+### 共筆
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<https://colab.research.google.com/drive/1-S2_3SzoLpLs-9_70saT8thoBm0Ht6-B>
 
-```markdown
-Syntax highlighted code block
+### 投影片
 
-# Header 1
-## Header 2
-### Header 3
+- Python 程式設計
+    - [關於](https://yaojenkuo.io/py_prg/00-about.slides.html#/)
+    - [起步走](https://yaojenkuo.io/py_prg/01-getting-started.slides.html#/)
+    - [資料型態](https://yaojenkuo.io/py_prg/02-data-types.slides.html#/)
+    - [流程控制：條件判斷](https://yaojenkuo.io/py_prg/03-control-flow-conditionals.slides.html#/)
+    - [流程控制：while 迴圈](https://yaojenkuo.io/py_prg/04-control-flow-while.slides.html#/)
+    - [資料結構](https://yaojenkuo.io/py_prg/05-data-structures.slides.html#/)
+    - [流程控制：for 迴圈](https://yaojenkuo.io/py_prg/06-control-flow-for.slides.html#/)
+    - [程式封裝：自訂函數](https://yaojenkuo.io/py_prg/07-code-packaging-functions.slides.html#/)
+    - [程式封裝：自訂類別](https://yaojenkuo.io/py_prg/08-code-packaging-classes.slides.html#/)
+    - [程式封裝：自訂模組/套件](https://yaojenkuo.github.io/py_prg/09-code-packaging-modules-and-libraries.slides.html#/)
+- Python 資料科學應用
+    - [網站爬蟲入門](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html#/)
+    - [NumPy 入門](https://yaojenkuo.io/python_4_ds/04-numpy-101.slides.html)
+    - [Pandas 入門](https://yaojenkuo.io/python_4_ds/05-pandas-101.slides.html)
+    - [Matplotlib 入門](https://yaojenkuo.io/python_4_ds/06-matplotlib-pyplot-101.slides.html)
 
-- Bulleted
-- List
+### 延伸閱讀
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaojenkuo/py-essentials-ndmc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [A Whirlwind Tour of Python](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/)
+- [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
+- [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
+- [DataCamp](https://www.datacamp.com/courses/tech:python?tap_a=5644-dce66f&tap_s=194899-1fb421)
