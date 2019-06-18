@@ -27,9 +27,14 @@
     - [Pandas 入門](https://yaojenkuo.io/python_4_ds/05-pandas-101.slides.html)
     - [Matplotlib 入門](https://yaojenkuo.io/python_4_ds/06-matplotlib-pyplot-101.slides.html)
 
+### 錄影清單
+
+<https://www.youtube.com/playlist?list=PLEq7iw5uOtuWTuIU_3VXXKY8Z5Msf76L2>
+
 ### 延伸閱讀
 
 - [A Whirlwind Tour of Python](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/)
 - [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
+- [An Introduction to Statistics with Python](https://www.springer.com/gp/book/9783319283159)
 - [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
 - [DataCamp](https://www.datacamp.com/courses/tech:python?tap_a=5644-dce66f&tap_s=194899-1fb421)
